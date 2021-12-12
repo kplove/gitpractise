@@ -18,4 +18,7 @@
   <build>
     <finalName>MyWebApp</finalName>
   </build>
+  <configuration>
+                <webXml>src\main\web\WEB-INF\web.xml</webXml>
+            </configuration>
 </project>
